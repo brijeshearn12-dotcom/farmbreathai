@@ -271,7 +271,7 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) for 
 **Brijesh Makwana** — Data Science & ML Pipeline
 - Risk prediction model and feature engineering
 - `current_predictions.csv` / `fire_by_district.csv` data pipeline
-- Seasonal prediction logic (`model/seasonal_predictor.py`)
+- Seasonal awareness engine (`dashboard/season_utils.py`) — season-state detection, dynamic banners, three-gate alert logic, and off-season historical fallback views
 - Model accuracy validation and threshold tuning
 
 **Gaurav Sharma** — Frontend & Dashboard
