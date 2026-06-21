@@ -268,8 +268,17 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) for 
 
 ## Authors
 
-- **Brijesh Makwana** — Data Science & ML Pipeline
-- **Gaurav Sharma** — Frontend
+**Brijesh Makwana** — Data Science & ML Pipeline
+- Risk prediction model and feature engineering
+- `current_predictions.csv` / `fire_by_district.csv` data pipeline
+- Seasonal prediction logic (`model/seasonal_predictor.py`)
+- Model accuracy validation and threshold tuning
+
+**Gaurav Sharma** — Frontend & Dashboard
+- Streamlit dashboard UI/UX (`dashboard/app.py`)
+- Folium risk map and Plotly visualizations
+- District/state filtering and 7-day forecast interface
+- Styling, branding, and responsive layout
 
 ## Contact
 
