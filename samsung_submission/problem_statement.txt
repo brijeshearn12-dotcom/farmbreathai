@@ -1,0 +1,13 @@
+FarmBreath AI — Problem Statement
+
+Every October, satellites watching Earth see northern India disappear under a blanket of smoke. Over 20 million tonnes of crop waste are set on fire across Punjab, Haryana, and Uttar Pradesh — pushing Delhi's air quality to 30 times the safe limit and sending thousands of children to hospitals struggling to breathe.
+
+After rice is harvested, farmers have just two weeks to clear their fields before the next crop must be planted. Burning is fast and free. Everything else costs money they don't have. So they burn — not because they want to poison their neighbors, but because no affordable alternative reaches them in time.
+
+Two groups are suffering: farmers trapped in a cycle with no practical exit, and 700 million urban residents who inhale the consequences every winter.
+
+Current government systems only detect fires after they start. There is no tool that predicts where burning will happen before it begins — so authorities can never intervene early enough to matter.
+
+The innovation opportunity is a 7-day early warning system using satellite crop data, weather forecasts, and historical fire patterns to identify high-risk districts in advance.
+
+AI can give us the warning we need to finally act before the smoke does.

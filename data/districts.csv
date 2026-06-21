@@ -1,0 +1,61 @@
+district_name,state,latitude,longitude,total_area_km2,major_crop
+Amritsar,Punjab,31.63,74.87,2647,Rice-Wheat
+Barnala,Punjab,30.38,75.55,1411,Rice-Wheat
+Bathinda,Punjab,30.21,74.95,3344,Cotton-Wheat
+Faridkot,Punjab,30.67,74.75,1472,Rice-Wheat
+Fatehgarh Sahib,Punjab,30.64,76.39,1180,Rice-Wheat
+Fazilka,Punjab,30.4,74.03,3113,Cotton-Wheat
+Ferozepur,Punjab,30.93,74.61,2190,Rice-Wheat
+Gurdaspur,Punjab,32.04,75.4,3563,Rice-Wheat
+Hoshiarpur,Punjab,31.53,75.91,3365,Wheat-Maize
+Jalandhar,Punjab,31.33,75.58,2625,Rice-Wheat
+Kapurthala,Punjab,31.38,75.38,1646,Rice-Wheat
+Ludhiana,Punjab,30.9,75.85,3744,Rice-Wheat
+Mansa,Punjab,29.99,75.4,2174,Cotton-Wheat
+Moga,Punjab,30.81,75.17,2235,Rice-Wheat
+Sri Muktsar Sahib,Punjab,30.47,74.52,2596,Cotton-Wheat
+Pathankot,Punjab,32.27,75.65,929,Rice-Wheat
+Patiala,Punjab,30.34,76.39,3175,Rice-Wheat
+Rupnagar,Punjab,30.97,76.53,1422,Rice-Wheat
+S.A.S. Nagar (Mohali),Punjab,30.7,76.72,1109,Rice-Wheat
+Sangrur,Punjab,30.25,75.84,3685,Rice-Wheat
+Shahid Bhagat Singh Nagar,Punjab,31.1,76.16,1283,Rice-Wheat
+Tarn Taran,Punjab,31.45,74.92,2417,Rice-Wheat
+Malerkotla,Punjab,30.53,75.88,410,Rice-Wheat
+Ambala,Haryana,30.38,76.78,1574,Rice-Wheat
+Bhiwani,Haryana,28.79,76.14,5099,Cotton-Wheat
+Charkhi Dadri,Haryana,28.59,76.27,1370,Cotton-Wheat
+Faridabad,Haryana,28.41,77.31,783,Wheat-Vegetables
+Fatehabad,Haryana,29.51,75.45,2538,Cotton-Wheat
+Gurugram,Haryana,28.46,77.03,1258,Wheat-Bajra
+Hisar,Haryana,29.15,75.72,3983,Cotton-Wheat
+Jhajjar,Haryana,28.61,76.66,1834,Wheat-Mustard
+Jind,Haryana,29.32,76.31,2702,Rice-Wheat
+Kaithal,Haryana,29.8,76.4,2317,Rice-Wheat
+Karnal,Haryana,29.68,76.99,2520,Rice-Wheat
+Kurukshetra,Haryana,29.97,76.88,1530,Rice-Wheat
+Mahendragarh,Haryana,28.28,76.15,1859,Wheat-Bajra
+Nuh,Haryana,28.1,77.0,1874,Wheat-Bajra
+Palwal,Haryana,28.14,77.33,1359,Rice-Wheat
+Panchkula,Haryana,30.69,76.85,898,Wheat-Maize
+Panipat,Haryana,29.39,76.97,1268,Rice-Wheat
+Rewari,Haryana,28.2,76.62,1582,Wheat-Bajra
+Rohtak,Haryana,28.9,76.57,1745,Rice-Wheat
+Sirsa,Haryana,29.53,75.03,4277,Cotton-Wheat
+Sonipat,Haryana,28.99,77.02,2122,Rice-Wheat
+Yamunanagar,Haryana,30.13,77.28,1768,Rice-Wheat
+Shahjahanpur,Uttar Pradesh,27.88,79.91,4575,Rice-Wheat
+Hardoi,Uttar Pradesh,27.42,80.13,5986,Rice-Wheat
+Bareilly,Uttar Pradesh,28.36,79.43,4120,Rice-Wheat
+Sitapur,Uttar Pradesh,27.57,80.68,5743,Rice-Wheat
+Pilibhit,Uttar Pradesh,28.63,79.8,3499,Rice-Wheat-Sugarcane
+Lakhimpur Kheri,Uttar Pradesh,27.95,80.78,7680,Rice-Wheat-Sugarcane
+Etah,Uttar Pradesh,27.63,78.66,2456,Wheat-Bajra
+Mainpuri,Uttar Pradesh,27.23,79.02,2745,Rice-Wheat
+Firozabad,Uttar Pradesh,27.15,78.4,2361,Wheat-Bajra
+Etawah,Uttar Pradesh,26.78,79.02,2287,Wheat-Bajra
+Auraiya,Uttar Pradesh,26.46,79.51,2052,Rice-Wheat
+Kanpur Dehat,Uttar Pradesh,26.43,79.99,3021,Rice-Wheat
+Kannauj,Uttar Pradesh,27.05,79.92,1996,Rice-Wheat-Potato
+Farrukhabad,Uttar Pradesh,27.39,79.58,2231,Rice-Wheat
+Budaun,Uttar Pradesh,28.04,79.12,4863,Rice-Wheat-Sugarcane

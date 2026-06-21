@@ -1,0 +1,1004 @@
+year,month,harvest_season,nearest_district,district_state,fire_count
+2021,4,rabi,Ambala,Haryana,23
+2021,4,rabi,Amritsar,Punjab,1
+2021,4,rabi,Bareilly,Uttar Pradesh,53
+2021,4,rabi,Barnala,Punjab,20
+2021,4,rabi,Bathinda,Punjab,35
+2021,4,rabi,Bhiwani,Haryana,15
+2021,4,rabi,Budaun,Uttar Pradesh,5
+2021,4,rabi,Charkhi Dadri,Haryana,10
+2021,4,rabi,Etah,Uttar Pradesh,5
+2021,4,rabi,Faridabad,Haryana,21
+2021,4,rabi,Faridkot,Punjab,21
+2021,4,rabi,Farrukhabad,Uttar Pradesh,12
+2021,4,rabi,Fatehabad,Haryana,24
+2021,4,rabi,Fatehgarh Sahib,Punjab,2
+2021,4,rabi,Fazilka,Punjab,34
+2021,4,rabi,Ferozepur,Punjab,5
+2021,4,rabi,Firozabad,Uttar Pradesh,1
+2021,4,rabi,Gurdaspur,Punjab,9
+2021,4,rabi,Gurugram,Haryana,4
+2021,4,rabi,Hardoi,Uttar Pradesh,14
+2021,4,rabi,Hisar,Haryana,3
+2021,4,rabi,Hoshiarpur,Punjab,74
+2021,4,rabi,Jalandhar,Punjab,22
+2021,4,rabi,Jhajjar,Haryana,42
+2021,4,rabi,Jind,Haryana,52
+2021,4,rabi,Kaithal,Haryana,63
+2021,4,rabi,Kapurthala,Punjab,14
+2021,4,rabi,Karnal,Haryana,40
+2021,4,rabi,Kurukshetra,Haryana,7
+2021,4,rabi,Lakhimpur Kheri,Uttar Pradesh,40
+2021,4,rabi,Ludhiana,Punjab,4
+2021,4,rabi,Malerkotla,Punjab,4
+2021,4,rabi,Mansa,Punjab,36
+2021,4,rabi,Moga,Punjab,10
+2021,4,rabi,Nuh,Haryana,2
+2021,4,rabi,Palwal,Haryana,42
+2021,4,rabi,Panchkula,Haryana,51
+2021,4,rabi,Panipat,Haryana,50
+2021,4,rabi,Pathankot,Punjab,10
+2021,4,rabi,Patiala,Punjab,14
+2021,4,rabi,Pilibhit,Uttar Pradesh,738
+2021,4,rabi,Rewari,Haryana,8
+2021,4,rabi,Rohtak,Haryana,52
+2021,4,rabi,Rupnagar,Punjab,60
+2021,4,rabi,S.A.S. Nagar (Mohali),Punjab,13
+2021,4,rabi,Sangrur,Punjab,43
+2021,4,rabi,Shahid Bhagat Singh Nagar,Punjab,15
+2021,4,rabi,Shahjahanpur,Uttar Pradesh,53
+2021,4,rabi,Sirsa,Haryana,40
+2021,4,rabi,Sitapur,Uttar Pradesh,2
+2021,4,rabi,Sonipat,Haryana,48
+2021,4,rabi,Sri Muktsar Sahib,Punjab,25
+2021,4,rabi,Tarn Taran,Punjab,2
+2021,4,rabi,Yamunanagar,Haryana,444
+2021,5,rabi,Ambala,Haryana,20
+2021,5,rabi,Amritsar,Punjab,123
+2021,5,rabi,Bareilly,Uttar Pradesh,19
+2021,5,rabi,Barnala,Punjab,73
+2021,5,rabi,Bathinda,Punjab,122
+2021,5,rabi,Bhiwani,Haryana,10
+2021,5,rabi,Budaun,Uttar Pradesh,2
+2021,5,rabi,Charkhi Dadri,Haryana,3
+2021,5,rabi,Etah,Uttar Pradesh,2
+2021,5,rabi,Faridabad,Haryana,13
+2021,5,rabi,Faridkot,Punjab,52
+2021,5,rabi,Farrukhabad,Uttar Pradesh,2
+2021,5,rabi,Fatehabad,Haryana,26
+2021,5,rabi,Fatehgarh Sahib,Punjab,23
+2021,5,rabi,Fazilka,Punjab,69
+2021,5,rabi,Ferozepur,Punjab,108
+2021,5,rabi,Firozabad,Uttar Pradesh,1
+2021,5,rabi,Gurdaspur,Punjab,129
+2021,5,rabi,Gurugram,Haryana,1
+2021,5,rabi,Hardoi,Uttar Pradesh,2
+2021,5,rabi,Hisar,Haryana,4
+2021,5,rabi,Hoshiarpur,Punjab,64
+2021,5,rabi,Jalandhar,Punjab,45
+2021,5,rabi,Jhajjar,Haryana,4
+2021,5,rabi,Jind,Haryana,34
+2021,5,rabi,Kaithal,Haryana,64
+2021,5,rabi,Kapurthala,Punjab,75
+2021,5,rabi,Karnal,Haryana,10
+2021,5,rabi,Kurukshetra,Haryana,14
+2021,5,rabi,Lakhimpur Kheri,Uttar Pradesh,14
+2021,5,rabi,Ludhiana,Punjab,61
+2021,5,rabi,Malerkotla,Punjab,55
+2021,5,rabi,Mansa,Punjab,56
+2021,5,rabi,Moga,Punjab,128
+2021,5,rabi,Palwal,Haryana,7
+2021,5,rabi,Panchkula,Haryana,6
+2021,5,rabi,Panipat,Haryana,37
+2021,5,rabi,Pathankot,Punjab,49
+2021,5,rabi,Patiala,Punjab,51
+2021,5,rabi,Pilibhit,Uttar Pradesh,61
+2021,5,rabi,Rohtak,Haryana,32
+2021,5,rabi,Rupnagar,Punjab,39
+2021,5,rabi,S.A.S. Nagar (Mohali),Punjab,6
+2021,5,rabi,Sangrur,Punjab,33
+2021,5,rabi,Shahid Bhagat Singh Nagar,Punjab,50
+2021,5,rabi,Shahjahanpur,Uttar Pradesh,9
+2021,5,rabi,Sirsa,Haryana,49
+2021,5,rabi,Sitapur,Uttar Pradesh,1
+2021,5,rabi,Sonipat,Haryana,13
+2021,5,rabi,Sri Muktsar Sahib,Punjab,146
+2021,5,rabi,Tarn Taran,Punjab,75
+2021,5,rabi,Yamunanagar,Haryana,34
+2021,10,kharif,Ambala,Haryana,63
+2021,10,kharif,Amritsar,Punjab,161
+2021,10,kharif,Bareilly,Uttar Pradesh,6
+2021,10,kharif,Barnala,Punjab,215
+2021,10,kharif,Bathinda,Punjab,241
+2021,10,kharif,Budaun,Uttar Pradesh,5
+2021,10,kharif,Etah,Uttar Pradesh,2
+2021,10,kharif,Faridabad,Haryana,1
+2021,10,kharif,Faridkot,Punjab,189
+2021,10,kharif,Fatehabad,Haryana,102
+2021,10,kharif,Fatehgarh Sahib,Punjab,113
+2021,10,kharif,Fazilka,Punjab,90
+2021,10,kharif,Ferozepur,Punjab,343
+2021,10,kharif,Firozabad,Uttar Pradesh,1
+2021,10,kharif,Gurdaspur,Punjab,83
+2021,10,kharif,Hisar,Haryana,12
+2021,10,kharif,Hoshiarpur,Punjab,7
+2021,10,kharif,Jalandhar,Punjab,62
+2021,10,kharif,Jind,Haryana,23
+2021,10,kharif,Kaithal,Haryana,287
+2021,10,kharif,Kapurthala,Punjab,290
+2021,10,kharif,Karnal,Haryana,93
+2021,10,kharif,Kurukshetra,Haryana,89
+2021,10,kharif,Lakhimpur Kheri,Uttar Pradesh,3
+2021,10,kharif,Ludhiana,Punjab,89
+2021,10,kharif,Mainpuri,Uttar Pradesh,1
+2021,10,kharif,Malerkotla,Punjab,86
+2021,10,kharif,Mansa,Punjab,94
+2021,10,kharif,Moga,Punjab,229
+2021,10,kharif,Palwal,Haryana,16
+2021,10,kharif,Panchkula,Haryana,5
+2021,10,kharif,Panipat,Haryana,25
+2021,10,kharif,Patiala,Punjab,188
+2021,10,kharif,Pilibhit,Uttar Pradesh,32
+2021,10,kharif,Rewari,Haryana,1
+2021,10,kharif,Rohtak,Haryana,1
+2021,10,kharif,Rupnagar,Punjab,15
+2021,10,kharif,S.A.S. Nagar (Mohali),Punjab,17
+2021,10,kharif,Sangrur,Punjab,113
+2021,10,kharif,Shahid Bhagat Singh Nagar,Punjab,52
+2021,10,kharif,Shahjahanpur,Uttar Pradesh,23
+2021,10,kharif,Sirsa,Haryana,36
+2021,10,kharif,Sitapur,Uttar Pradesh,1
+2021,10,kharif,Sonipat,Haryana,2
+2021,10,kharif,Sri Muktsar Sahib,Punjab,215
+2021,10,kharif,Tarn Taran,Punjab,403
+2021,10,kharif,Yamunanagar,Haryana,31
+2021,11,kharif,Ambala,Haryana,83
+2021,11,kharif,Amritsar,Punjab,172
+2021,11,kharif,Bareilly,Uttar Pradesh,27
+2021,11,kharif,Barnala,Punjab,839
+2021,11,kharif,Bathinda,Punjab,1136
+2021,11,kharif,Bhiwani,Haryana,3
+2021,11,kharif,Budaun,Uttar Pradesh,8
+2021,11,kharif,Charkhi Dadri,Haryana,2
+2021,11,kharif,Faridabad,Haryana,10
+2021,11,kharif,Faridkot,Punjab,652
+2021,11,kharif,Fatehabad,Haryana,427
+2021,11,kharif,Fatehgarh Sahib,Punjab,359
+2021,11,kharif,Fazilka,Punjab,609
+2021,11,kharif,Ferozepur,Punjab,709
+2021,11,kharif,Firozabad,Uttar Pradesh,1
+2021,11,kharif,Gurdaspur,Punjab,77
+2021,11,kharif,Hardoi,Uttar Pradesh,9
+2021,11,kharif,Hisar,Haryana,20
+2021,11,kharif,Hoshiarpur,Punjab,20
+2021,11,kharif,Jalandhar,Punjab,169
+2021,11,kharif,Jind,Haryana,117
+2021,11,kharif,Kaithal,Haryana,368
+2021,11,kharif,Kapurthala,Punjab,225
+2021,11,kharif,Karnal,Haryana,16
+2021,11,kharif,Kurukshetra,Haryana,28
+2021,11,kharif,Lakhimpur Kheri,Uttar Pradesh,5
+2021,11,kharif,Ludhiana,Punjab,456
+2021,11,kharif,Mahendragarh,Haryana,1
+2021,11,kharif,Mainpuri,Uttar Pradesh,2
+2021,11,kharif,Malerkotla,Punjab,483
+2021,11,kharif,Mansa,Punjab,813
+2021,11,kharif,Moga,Punjab,1308
+2021,11,kharif,Palwal,Haryana,34
+2021,11,kharif,Panchkula,Haryana,7
+2021,11,kharif,Panipat,Haryana,59
+2021,11,kharif,Pathankot,Punjab,2
+2021,11,kharif,Patiala,Punjab,435
+2021,11,kharif,Pilibhit,Uttar Pradesh,42
+2021,11,kharif,Rewari,Haryana,1
+2021,11,kharif,Rohtak,Haryana,24
+2021,11,kharif,Rupnagar,Punjab,48
+2021,11,kharif,S.A.S. Nagar (Mohali),Punjab,13
+2021,11,kharif,Sangrur,Punjab,874
+2021,11,kharif,Shahid Bhagat Singh Nagar,Punjab,170
+2021,11,kharif,Shahjahanpur,Uttar Pradesh,36
+2021,11,kharif,Sirsa,Haryana,271
+2021,11,kharif,Sitapur,Uttar Pradesh,1
+2021,11,kharif,Sonipat,Haryana,22
+2021,11,kharif,Sri Muktsar Sahib,Punjab,1159
+2021,11,kharif,Tarn Taran,Punjab,302
+2021,11,kharif,Yamunanagar,Haryana,28
+2022,4,rabi,Ambala,Haryana,27
+2022,4,rabi,Amritsar,Punjab,114
+2022,4,rabi,Bareilly,Uttar Pradesh,30
+2022,4,rabi,Barnala,Punjab,103
+2022,4,rabi,Bathinda,Punjab,91
+2022,4,rabi,Bhiwani,Haryana,20
+2022,4,rabi,Budaun,Uttar Pradesh,2
+2022,4,rabi,Charkhi Dadri,Haryana,2
+2022,4,rabi,Faridabad,Haryana,7
+2022,4,rabi,Faridkot,Punjab,47
+2022,4,rabi,Farrukhabad,Uttar Pradesh,2
+2022,4,rabi,Fatehabad,Haryana,39
+2022,4,rabi,Fatehgarh Sahib,Punjab,8
+2022,4,rabi,Fazilka,Punjab,99
+2022,4,rabi,Ferozepur,Punjab,105
+2022,4,rabi,Gurdaspur,Punjab,121
+2022,4,rabi,Hardoi,Uttar Pradesh,11
+2022,4,rabi,Hoshiarpur,Punjab,33
+2022,4,rabi,Jalandhar,Punjab,44
+2022,4,rabi,Jhajjar,Haryana,22
+2022,4,rabi,Jind,Haryana,64
+2022,4,rabi,Kaithal,Haryana,98
+2022,4,rabi,Kapurthala,Punjab,42
+2022,4,rabi,Karnal,Haryana,44
+2022,4,rabi,Kurukshetra,Haryana,19
+2022,4,rabi,Lakhimpur Kheri,Uttar Pradesh,13
+2022,4,rabi,Ludhiana,Punjab,36
+2022,4,rabi,Mahendragarh,Haryana,2
+2022,4,rabi,Malerkotla,Punjab,58
+2022,4,rabi,Mansa,Punjab,92
+2022,4,rabi,Moga,Punjab,117
+2022,4,rabi,Nuh,Haryana,2
+2022,4,rabi,Palwal,Haryana,15
+2022,4,rabi,Panchkula,Haryana,58
+2022,4,rabi,Panipat,Haryana,74
+2022,4,rabi,Pathankot,Punjab,49
+2022,4,rabi,Patiala,Punjab,50
+2022,4,rabi,Pilibhit,Uttar Pradesh,410
+2022,4,rabi,Rewari,Haryana,6
+2022,4,rabi,Rohtak,Haryana,58
+2022,4,rabi,Rupnagar,Punjab,15
+2022,4,rabi,S.A.S. Nagar (Mohali),Punjab,1
+2022,4,rabi,Sangrur,Punjab,122
+2022,4,rabi,Shahid Bhagat Singh Nagar,Punjab,9
+2022,4,rabi,Shahjahanpur,Uttar Pradesh,63
+2022,4,rabi,Sirsa,Haryana,31
+2022,4,rabi,Sitapur,Uttar Pradesh,5
+2022,4,rabi,Sonipat,Haryana,39
+2022,4,rabi,Sri Muktsar Sahib,Punjab,137
+2022,4,rabi,Tarn Taran,Punjab,79
+2022,4,rabi,Yamunanagar,Haryana,351
+2022,5,rabi,Ambala,Haryana,5
+2022,5,rabi,Amritsar,Punjab,252
+2022,5,rabi,Bareilly,Uttar Pradesh,17
+2022,5,rabi,Barnala,Punjab,76
+2022,5,rabi,Bathinda,Punjab,121
+2022,5,rabi,Bhiwani,Haryana,7
+2022,5,rabi,Charkhi Dadri,Haryana,1
+2022,5,rabi,Faridabad,Haryana,2
+2022,5,rabi,Faridkot,Punjab,91
+2022,5,rabi,Farrukhabad,Uttar Pradesh,2
+2022,5,rabi,Fatehabad,Haryana,15
+2022,5,rabi,Fatehgarh Sahib,Punjab,9
+2022,5,rabi,Fazilka,Punjab,62
+2022,5,rabi,Ferozepur,Punjab,161
+2022,5,rabi,Gurdaspur,Punjab,162
+2022,5,rabi,Hardoi,Uttar Pradesh,6
+2022,5,rabi,Hisar,Haryana,2
+2022,5,rabi,Hoshiarpur,Punjab,66
+2022,5,rabi,Jalandhar,Punjab,79
+2022,5,rabi,Jind,Haryana,19
+2022,5,rabi,Kaithal,Haryana,22
+2022,5,rabi,Kannauj,Uttar Pradesh,1
+2022,5,rabi,Kapurthala,Punjab,133
+2022,5,rabi,Karnal,Haryana,5
+2022,5,rabi,Kurukshetra,Haryana,6
+2022,5,rabi,Lakhimpur Kheri,Uttar Pradesh,3
+2022,5,rabi,Ludhiana,Punjab,115
+2022,5,rabi,Mahendragarh,Haryana,2
+2022,5,rabi,Mainpuri,Uttar Pradesh,1
+2022,5,rabi,Malerkotla,Punjab,23
+2022,5,rabi,Mansa,Punjab,28
+2022,5,rabi,Moga,Punjab,241
+2022,5,rabi,Nuh,Haryana,3
+2022,5,rabi,Panchkula,Haryana,43
+2022,5,rabi,Panipat,Haryana,8
+2022,5,rabi,Pathankot,Punjab,32
+2022,5,rabi,Patiala,Punjab,12
+2022,5,rabi,Pilibhit,Uttar Pradesh,73
+2022,5,rabi,Rohtak,Haryana,18
+2022,5,rabi,Rupnagar,Punjab,63
+2022,5,rabi,Sangrur,Punjab,29
+2022,5,rabi,Shahid Bhagat Singh Nagar,Punjab,59
+2022,5,rabi,Shahjahanpur,Uttar Pradesh,12
+2022,5,rabi,Sirsa,Haryana,21
+2022,5,rabi,Sonipat,Haryana,2
+2022,5,rabi,Sri Muktsar Sahib,Punjab,158
+2022,5,rabi,Tarn Taran,Punjab,149
+2022,5,rabi,Yamunanagar,Haryana,59
+2022,10,kharif,Ambala,Haryana,50
+2022,10,kharif,Amritsar,Punjab,152
+2022,10,kharif,Bareilly,Uttar Pradesh,5
+2022,10,kharif,Barnala,Punjab,132
+2022,10,kharif,Bathinda,Punjab,130
+2022,10,kharif,Bhiwani,Haryana,1
+2022,10,kharif,Budaun,Uttar Pradesh,6
+2022,10,kharif,Etah,Uttar Pradesh,1
+2022,10,kharif,Faridkot,Punjab,86
+2022,10,kharif,Farrukhabad,Uttar Pradesh,1
+2022,10,kharif,Fatehabad,Haryana,51
+2022,10,kharif,Fatehgarh Sahib,Punjab,133
+2022,10,kharif,Fazilka,Punjab,37
+2022,10,kharif,Ferozepur,Punjab,293
+2022,10,kharif,Gurdaspur,Punjab,102
+2022,10,kharif,Gurugram,Haryana,1
+2022,10,kharif,Hisar,Haryana,1
+2022,10,kharif,Hoshiarpur,Punjab,5
+2022,10,kharif,Jalandhar,Punjab,74
+2022,10,kharif,Jind,Haryana,15
+2022,10,kharif,Kaithal,Haryana,198
+2022,10,kharif,Kapurthala,Punjab,283
+2022,10,kharif,Karnal,Haryana,30
+2022,10,kharif,Kurukshetra,Haryana,43
+2022,10,kharif,Lakhimpur Kheri,Uttar Pradesh,3
+2022,10,kharif,Ludhiana,Punjab,76
+2022,10,kharif,Mainpuri,Uttar Pradesh,1
+2022,10,kharif,Malerkotla,Punjab,93
+2022,10,kharif,Mansa,Punjab,76
+2022,10,kharif,Moga,Punjab,197
+2022,10,kharif,Palwal,Haryana,3
+2022,10,kharif,Panchkula,Haryana,10
+2022,10,kharif,Panipat,Haryana,5
+2022,10,kharif,Patiala,Punjab,212
+2022,10,kharif,Pilibhit,Uttar Pradesh,47
+2022,10,kharif,Rupnagar,Punjab,19
+2022,10,kharif,S.A.S. Nagar (Mohali),Punjab,16
+2022,10,kharif,Sangrur,Punjab,264
+2022,10,kharif,Shahid Bhagat Singh Nagar,Punjab,44
+2022,10,kharif,Shahjahanpur,Uttar Pradesh,19
+2022,10,kharif,Sirsa,Haryana,31
+2022,10,kharif,Sonipat,Haryana,2
+2022,10,kharif,Sri Muktsar Sahib,Punjab,82
+2022,10,kharif,Tarn Taran,Punjab,370
+2022,10,kharif,Yamunanagar,Haryana,34
+2022,11,kharif,Ambala,Haryana,21
+2022,11,kharif,Amritsar,Punjab,45
+2022,11,kharif,Bareilly,Uttar Pradesh,25
+2022,11,kharif,Barnala,Punjab,532
+2022,11,kharif,Bathinda,Punjab,695
+2022,11,kharif,Bhiwani,Haryana,1
+2022,11,kharif,Budaun,Uttar Pradesh,1
+2022,11,kharif,Etah,Uttar Pradesh,2
+2022,11,kharif,Faridabad,Haryana,7
+2022,11,kharif,Faridkot,Punjab,468
+2022,11,kharif,Farrukhabad,Uttar Pradesh,2
+2022,11,kharif,Fatehabad,Haryana,134
+2022,11,kharif,Fatehgarh Sahib,Punjab,94
+2022,11,kharif,Fazilka,Punjab,374
+2022,11,kharif,Ferozepur,Punjab,400
+2022,11,kharif,Firozabad,Uttar Pradesh,2
+2022,11,kharif,Gurdaspur,Punjab,15
+2022,11,kharif,Hardoi,Uttar Pradesh,6
+2022,11,kharif,Hisar,Haryana,9
+2022,11,kharif,Hoshiarpur,Punjab,5
+2022,11,kharif,Jalandhar,Punjab,42
+2022,11,kharif,Jind,Haryana,57
+2022,11,kharif,Kaithal,Haryana,160
+2022,11,kharif,Kannauj,Uttar Pradesh,2
+2022,11,kharif,Kapurthala,Punjab,59
+2022,11,kharif,Karnal,Haryana,6
+2022,11,kharif,Kurukshetra,Haryana,1
+2022,11,kharif,Lakhimpur Kheri,Uttar Pradesh,7
+2022,11,kharif,Ludhiana,Punjab,141
+2022,11,kharif,Mahendragarh,Haryana,6
+2022,11,kharif,Mainpuri,Uttar Pradesh,4
+2022,11,kharif,Malerkotla,Punjab,221
+2022,11,kharif,Mansa,Punjab,422
+2022,11,kharif,Moga,Punjab,663
+2022,11,kharif,Palwal,Haryana,5
+2022,11,kharif,Panchkula,Haryana,4
+2022,11,kharif,Panipat,Haryana,21
+2022,11,kharif,Patiala,Punjab,181
+2022,11,kharif,Pilibhit,Uttar Pradesh,35
+2022,11,kharif,Rohtak,Haryana,18
+2022,11,kharif,Rupnagar,Punjab,26
+2022,11,kharif,S.A.S. Nagar (Mohali),Punjab,4
+2022,11,kharif,Sangrur,Punjab,481
+2022,11,kharif,Shahid Bhagat Singh Nagar,Punjab,85
+2022,11,kharif,Shahjahanpur,Uttar Pradesh,15
+2022,11,kharif,Sirsa,Haryana,158
+2022,11,kharif,Sitapur,Uttar Pradesh,10
+2022,11,kharif,Sonipat,Haryana,8
+2022,11,kharif,Sri Muktsar Sahib,Punjab,734
+2022,11,kharif,Tarn Taran,Punjab,89
+2022,11,kharif,Yamunanagar,Haryana,19
+2023,4,rabi,Bareilly,Uttar Pradesh,7
+2023,4,rabi,Barnala,Punjab,6
+2023,4,rabi,Bathinda,Punjab,47
+2023,4,rabi,Etah,Uttar Pradesh,1
+2023,4,rabi,Faridabad,Haryana,3
+2023,4,rabi,Faridkot,Punjab,2
+2023,4,rabi,Farrukhabad,Uttar Pradesh,1
+2023,4,rabi,Fatehabad,Haryana,5
+2023,4,rabi,Fazilka,Punjab,8
+2023,4,rabi,Gurdaspur,Punjab,6
+2023,4,rabi,Gurugram,Haryana,1
+2023,4,rabi,Hardoi,Uttar Pradesh,1
+2023,4,rabi,Hisar,Haryana,2
+2023,4,rabi,Hoshiarpur,Punjab,1
+2023,4,rabi,Jhajjar,Haryana,1
+2023,4,rabi,Jind,Haryana,4
+2023,4,rabi,Kaithal,Haryana,3
+2023,4,rabi,Kapurthala,Punjab,2
+2023,4,rabi,Karnal,Haryana,2
+2023,4,rabi,Kurukshetra,Haryana,1
+2023,4,rabi,Lakhimpur Kheri,Uttar Pradesh,23
+2023,4,rabi,Malerkotla,Punjab,1
+2023,4,rabi,Mansa,Punjab,8
+2023,4,rabi,Moga,Punjab,4
+2023,4,rabi,Nuh,Haryana,1
+2023,4,rabi,Palwal,Haryana,10
+2023,4,rabi,Panchkula,Haryana,4
+2023,4,rabi,Panipat,Haryana,14
+2023,4,rabi,Pathankot,Punjab,3
+2023,4,rabi,Patiala,Punjab,2
+2023,4,rabi,Pilibhit,Uttar Pradesh,68
+2023,4,rabi,Rewari,Haryana,1
+2023,4,rabi,Rohtak,Haryana,4
+2023,4,rabi,Sangrur,Punjab,3
+2023,4,rabi,Shahjahanpur,Uttar Pradesh,15
+2023,4,rabi,Sirsa,Haryana,10
+2023,4,rabi,Sitapur,Uttar Pradesh,1
+2023,4,rabi,Sonipat,Haryana,5
+2023,4,rabi,Yamunanagar,Haryana,27
+2023,5,rabi,Ambala,Haryana,29
+2023,5,rabi,Amritsar,Punjab,134
+2023,5,rabi,Bareilly,Uttar Pradesh,6
+2023,5,rabi,Barnala,Punjab,93
+2023,5,rabi,Bathinda,Punjab,154
+2023,5,rabi,Bhiwani,Haryana,4
+2023,5,rabi,Budaun,Uttar Pradesh,1
+2023,5,rabi,Charkhi Dadri,Haryana,2
+2023,5,rabi,Faridabad,Haryana,4
+2023,5,rabi,Faridkot,Punjab,76
+2023,5,rabi,Fatehabad,Haryana,24
+2023,5,rabi,Fatehgarh Sahib,Punjab,18
+2023,5,rabi,Fazilka,Punjab,62
+2023,5,rabi,Ferozepur,Punjab,86
+2023,5,rabi,Gurdaspur,Punjab,141
+2023,5,rabi,Hardoi,Uttar Pradesh,3
+2023,5,rabi,Hisar,Haryana,6
+2023,5,rabi,Hoshiarpur,Punjab,36
+2023,5,rabi,Jalandhar,Punjab,53
+2023,5,rabi,Jhajjar,Haryana,1
+2023,5,rabi,Jind,Haryana,17
+2023,5,rabi,Kaithal,Haryana,66
+2023,5,rabi,Kannauj,Uttar Pradesh,1
+2023,5,rabi,Kapurthala,Punjab,65
+2023,5,rabi,Karnal,Haryana,14
+2023,5,rabi,Kurukshetra,Haryana,10
+2023,5,rabi,Lakhimpur Kheri,Uttar Pradesh,7
+2023,5,rabi,Ludhiana,Punjab,84
+2023,5,rabi,Mainpuri,Uttar Pradesh,2
+2023,5,rabi,Malerkotla,Punjab,75
+2023,5,rabi,Mansa,Punjab,31
+2023,5,rabi,Moga,Punjab,245
+2023,5,rabi,Palwal,Haryana,2
+2023,5,rabi,Panchkula,Haryana,2
+2023,5,rabi,Panipat,Haryana,21
+2023,5,rabi,Pathankot,Punjab,18
+2023,5,rabi,Patiala,Punjab,55
+2023,5,rabi,Pilibhit,Uttar Pradesh,30
+2023,5,rabi,Rewari,Haryana,1
+2023,5,rabi,Rohtak,Haryana,29
+2023,5,rabi,Rupnagar,Punjab,5
+2023,5,rabi,S.A.S. Nagar (Mohali),Punjab,2
+2023,5,rabi,Sangrur,Punjab,46
+2023,5,rabi,Shahid Bhagat Singh Nagar,Punjab,37
+2023,5,rabi,Shahjahanpur,Uttar Pradesh,13
+2023,5,rabi,Sirsa,Haryana,35
+2023,5,rabi,Sitapur,Uttar Pradesh,2
+2023,5,rabi,Sonipat,Haryana,4
+2023,5,rabi,Sri Muktsar Sahib,Punjab,143
+2023,5,rabi,Tarn Taran,Punjab,57
+2023,5,rabi,Yamunanagar,Haryana,27
+2023,10,kharif,Ambala,Haryana,25
+2023,10,kharif,Amritsar,Punjab,131
+2023,10,kharif,Bareilly,Uttar Pradesh,16
+2023,10,kharif,Barnala,Punjab,33
+2023,10,kharif,Bathinda,Punjab,15
+2023,10,kharif,Bhiwani,Haryana,1
+2023,10,kharif,Budaun,Uttar Pradesh,7
+2023,10,kharif,Faridabad,Haryana,3
+2023,10,kharif,Faridkot,Punjab,29
+2023,10,kharif,Farrukhabad,Uttar Pradesh,3
+2023,10,kharif,Fatehabad,Haryana,38
+2023,10,kharif,Fatehgarh Sahib,Punjab,47
+2023,10,kharif,Fazilka,Punjab,14
+2023,10,kharif,Ferozepur,Punjab,177
+2023,10,kharif,Gurdaspur,Punjab,18
+2023,10,kharif,Hardoi,Uttar Pradesh,6
+2023,10,kharif,Hisar,Haryana,6
+2023,10,kharif,Jalandhar,Punjab,14
+2023,10,kharif,Jind,Haryana,21
+2023,10,kharif,Kaithal,Haryana,83
+2023,10,kharif,Kannauj,Uttar Pradesh,1
+2023,10,kharif,Kapurthala,Punjab,116
+2023,10,kharif,Karnal,Haryana,5
+2023,10,kharif,Kurukshetra,Haryana,16
+2023,10,kharif,Ludhiana,Punjab,21
+2023,10,kharif,Mainpuri,Uttar Pradesh,1
+2023,10,kharif,Malerkotla,Punjab,11
+2023,10,kharif,Mansa,Punjab,64
+2023,10,kharif,Moga,Punjab,65
+2023,10,kharif,Palwal,Haryana,28
+2023,10,kharif,Panchkula,Haryana,10
+2023,10,kharif,Panipat,Haryana,5
+2023,10,kharif,Patiala,Punjab,80
+2023,10,kharif,Pilibhit,Uttar Pradesh,103
+2023,10,kharif,Rewari,Haryana,1
+2023,10,kharif,Rohtak,Haryana,2
+2023,10,kharif,Rupnagar,Punjab,4
+2023,10,kharif,S.A.S. Nagar (Mohali),Punjab,9
+2023,10,kharif,Sangrur,Punjab,129
+2023,10,kharif,Shahid Bhagat Singh Nagar,Punjab,15
+2023,10,kharif,Shahjahanpur,Uttar Pradesh,4
+2023,10,kharif,Sirsa,Haryana,48
+2023,10,kharif,Sonipat,Haryana,3
+2023,10,kharif,Sri Muktsar Sahib,Punjab,23
+2023,10,kharif,Tarn Taran,Punjab,141
+2023,10,kharif,Yamunanagar,Haryana,28
+2023,11,kharif,Ambala,Haryana,11
+2023,11,kharif,Amritsar,Punjab,71
+2023,11,kharif,Bareilly,Uttar Pradesh,12
+2023,11,kharif,Barnala,Punjab,503
+2023,11,kharif,Bathinda,Punjab,580
+2023,11,kharif,Bhiwani,Haryana,2
+2023,11,kharif,Budaun,Uttar Pradesh,3
+2023,11,kharif,Etah,Uttar Pradesh,1
+2023,11,kharif,Faridabad,Haryana,5
+2023,11,kharif,Faridkot,Punjab,400
+2023,11,kharif,Fatehabad,Haryana,96
+2023,11,kharif,Fatehgarh Sahib,Punjab,126
+2023,11,kharif,Fazilka,Punjab,342
+2023,11,kharif,Ferozepur,Punjab,421
+2023,11,kharif,Gurdaspur,Punjab,48
+2023,11,kharif,Hardoi,Uttar Pradesh,3
+2023,11,kharif,Hisar,Haryana,5
+2023,11,kharif,Hoshiarpur,Punjab,3
+2023,11,kharif,Jalandhar,Punjab,97
+2023,11,kharif,Jind,Haryana,29
+2023,11,kharif,Kaithal,Haryana,147
+2023,11,kharif,Kannauj,Uttar Pradesh,1
+2023,11,kharif,Kapurthala,Punjab,200
+2023,11,kharif,Karnal,Haryana,3
+2023,11,kharif,Kurukshetra,Haryana,5
+2023,11,kharif,Lakhimpur Kheri,Uttar Pradesh,7
+2023,11,kharif,Ludhiana,Punjab,134
+2023,11,kharif,Mahendragarh,Haryana,4
+2023,11,kharif,Mainpuri,Uttar Pradesh,4
+2023,11,kharif,Malerkotla,Punjab,198
+2023,11,kharif,Mansa,Punjab,396
+2023,11,kharif,Moga,Punjab,665
+2023,11,kharif,Palwal,Haryana,4
+2023,11,kharif,Panchkula,Haryana,7
+2023,11,kharif,Panipat,Haryana,14
+2023,11,kharif,Pathankot,Punjab,3
+2023,11,kharif,Patiala,Punjab,163
+2023,11,kharif,Pilibhit,Uttar Pradesh,17
+2023,11,kharif,Rewari,Haryana,1
+2023,11,kharif,Rohtak,Haryana,11
+2023,11,kharif,Rupnagar,Punjab,8
+2023,11,kharif,S.A.S. Nagar (Mohali),Punjab,2
+2023,11,kharif,Sangrur,Punjab,599
+2023,11,kharif,Shahid Bhagat Singh Nagar,Punjab,72
+2023,11,kharif,Shahjahanpur,Uttar Pradesh,9
+2023,11,kharif,Sirsa,Haryana,131
+2023,11,kharif,Sitapur,Uttar Pradesh,5
+2023,11,kharif,Sonipat,Haryana,9
+2023,11,kharif,Sri Muktsar Sahib,Punjab,505
+2023,11,kharif,Tarn Taran,Punjab,182
+2023,11,kharif,Yamunanagar,Haryana,19
+2024,4,rabi,Bareilly,Uttar Pradesh,34
+2024,4,rabi,Barnala,Punjab,3
+2024,4,rabi,Bathinda,Punjab,6
+2024,4,rabi,Budaun,Uttar Pradesh,5
+2024,4,rabi,Etah,Uttar Pradesh,3
+2024,4,rabi,Faridabad,Haryana,3
+2024,4,rabi,Faridkot,Punjab,1
+2024,4,rabi,Fatehabad,Haryana,1
+2024,4,rabi,Fatehgarh Sahib,Punjab,2
+2024,4,rabi,Fazilka,Punjab,10
+2024,4,rabi,Ferozepur,Punjab,1
+2024,4,rabi,Gurdaspur,Punjab,4
+2024,4,rabi,Hardoi,Uttar Pradesh,3
+2024,4,rabi,Hoshiarpur,Punjab,6
+2024,4,rabi,Jalandhar,Punjab,8
+2024,4,rabi,Jhajjar,Haryana,2
+2024,4,rabi,Jind,Haryana,3
+2024,4,rabi,Kaithal,Haryana,6
+2024,4,rabi,Kapurthala,Punjab,2
+2024,4,rabi,Kurukshetra,Haryana,1
+2024,4,rabi,Lakhimpur Kheri,Uttar Pradesh,58
+2024,4,rabi,Ludhiana,Punjab,2
+2024,4,rabi,Mahendragarh,Haryana,1
+2024,4,rabi,Mansa,Punjab,3
+2024,4,rabi,Moga,Punjab,2
+2024,4,rabi,Nuh,Haryana,3
+2024,4,rabi,Palwal,Haryana,10
+2024,4,rabi,Panchkula,Haryana,2
+2024,4,rabi,Panipat,Haryana,4
+2024,4,rabi,Pathankot,Punjab,3
+2024,4,rabi,Patiala,Punjab,3
+2024,4,rabi,Pilibhit,Uttar Pradesh,561
+2024,4,rabi,Rewari,Haryana,2
+2024,4,rabi,Rohtak,Haryana,4
+2024,4,rabi,Sangrur,Punjab,4
+2024,4,rabi,Shahid Bhagat Singh Nagar,Punjab,8
+2024,4,rabi,Shahjahanpur,Uttar Pradesh,15
+2024,4,rabi,Sirsa,Haryana,6
+2024,4,rabi,Sitapur,Uttar Pradesh,5
+2024,4,rabi,Sonipat,Haryana,3
+2024,4,rabi,Sri Muktsar Sahib,Punjab,3
+2024,4,rabi,Yamunanagar,Haryana,136
+2024,5,rabi,Ambala,Haryana,57
+2024,5,rabi,Amritsar,Punjab,259
+2024,5,rabi,Bareilly,Uttar Pradesh,24
+2024,5,rabi,Barnala,Punjab,93
+2024,5,rabi,Bathinda,Punjab,130
+2024,5,rabi,Bhiwani,Haryana,19
+2024,5,rabi,Budaun,Uttar Pradesh,4
+2024,5,rabi,Charkhi Dadri,Haryana,4
+2024,5,rabi,Etah,Uttar Pradesh,4
+2024,5,rabi,Faridabad,Haryana,18
+2024,5,rabi,Faridkot,Punjab,81
+2024,5,rabi,Farrukhabad,Uttar Pradesh,3
+2024,5,rabi,Fatehabad,Haryana,56
+2024,5,rabi,Fatehgarh Sahib,Punjab,45
+2024,5,rabi,Fazilka,Punjab,95
+2024,5,rabi,Ferozepur,Punjab,165
+2024,5,rabi,Firozabad,Uttar Pradesh,1
+2024,5,rabi,Gurdaspur,Punjab,340
+2024,5,rabi,Gurugram,Haryana,5
+2024,5,rabi,Hardoi,Uttar Pradesh,6
+2024,5,rabi,Hisar,Haryana,8
+2024,5,rabi,Hoshiarpur,Punjab,305
+2024,5,rabi,Jalandhar,Punjab,115
+2024,5,rabi,Jhajjar,Haryana,37
+2024,5,rabi,Jind,Haryana,51
+2024,5,rabi,Kaithal,Haryana,109
+2024,5,rabi,Kannauj,Uttar Pradesh,3
+2024,5,rabi,Kapurthala,Punjab,129
+2024,5,rabi,Karnal,Haryana,45
+2024,5,rabi,Kurukshetra,Haryana,39
+2024,5,rabi,Lakhimpur Kheri,Uttar Pradesh,10
+2024,5,rabi,Ludhiana,Punjab,148
+2024,5,rabi,Mainpuri,Uttar Pradesh,1
+2024,5,rabi,Malerkotla,Punjab,80
+2024,5,rabi,Mansa,Punjab,80
+2024,5,rabi,Moga,Punjab,202
+2024,5,rabi,Nuh,Haryana,1
+2024,5,rabi,Palwal,Haryana,6
+2024,5,rabi,Panchkula,Haryana,272
+2024,5,rabi,Panipat,Haryana,69
+2024,5,rabi,Pathankot,Punjab,105
+2024,5,rabi,Patiala,Punjab,61
+2024,5,rabi,Pilibhit,Uttar Pradesh,423
+2024,5,rabi,Rewari,Haryana,2
+2024,5,rabi,Rohtak,Haryana,92
+2024,5,rabi,Rupnagar,Punjab,193
+2024,5,rabi,S.A.S. Nagar (Mohali),Punjab,19
+2024,5,rabi,Sangrur,Punjab,84
+2024,5,rabi,Shahid Bhagat Singh Nagar,Punjab,107
+2024,5,rabi,Shahjahanpur,Uttar Pradesh,28
+2024,5,rabi,Sirsa,Haryana,55
+2024,5,rabi,Sitapur,Uttar Pradesh,2
+2024,5,rabi,Sonipat,Haryana,41
+2024,5,rabi,Sri Muktsar Sahib,Punjab,121
+2024,5,rabi,Tarn Taran,Punjab,149
+2024,5,rabi,Yamunanagar,Haryana,374
+2024,10,kharif,Ambala,Haryana,15
+2024,10,kharif,Amritsar,Punjab,35
+2024,10,kharif,Bareilly,Uttar Pradesh,5
+2024,10,kharif,Barnala,Punjab,11
+2024,10,kharif,Bathinda,Punjab,15
+2024,10,kharif,Bhiwani,Haryana,3
+2024,10,kharif,Budaun,Uttar Pradesh,10
+2024,10,kharif,Etah,Uttar Pradesh,3
+2024,10,kharif,Faridabad,Haryana,3
+2024,10,kharif,Faridkot,Punjab,13
+2024,10,kharif,Farrukhabad,Uttar Pradesh,3
+2024,10,kharif,Fatehabad,Haryana,10
+2024,10,kharif,Fatehgarh Sahib,Punjab,37
+2024,10,kharif,Fazilka,Punjab,12
+2024,10,kharif,Ferozepur,Punjab,96
+2024,10,kharif,Firozabad,Uttar Pradesh,1
+2024,10,kharif,Gurdaspur,Punjab,19
+2024,10,kharif,Gurugram,Haryana,1
+2024,10,kharif,Hardoi,Uttar Pradesh,4
+2024,10,kharif,Hisar,Haryana,6
+2024,10,kharif,Hoshiarpur,Punjab,2
+2024,10,kharif,Jalandhar,Punjab,11
+2024,10,kharif,Jind,Haryana,4
+2024,10,kharif,Kaithal,Haryana,48
+2024,10,kharif,Kapurthala,Punjab,49
+2024,10,kharif,Karnal,Haryana,9
+2024,10,kharif,Kurukshetra,Haryana,4
+2024,10,kharif,Ludhiana,Punjab,4
+2024,10,kharif,Mahendragarh,Haryana,2
+2024,10,kharif,Mainpuri,Uttar Pradesh,1
+2024,10,kharif,Malerkotla,Punjab,13
+2024,10,kharif,Mansa,Punjab,18
+2024,10,kharif,Moga,Punjab,20
+2024,10,kharif,Palwal,Haryana,26
+2024,10,kharif,Panchkula,Haryana,5
+2024,10,kharif,Panipat,Haryana,1
+2024,10,kharif,Pathankot,Punjab,11
+2024,10,kharif,Patiala,Punjab,44
+2024,10,kharif,Pilibhit,Uttar Pradesh,53
+2024,10,kharif,Rewari,Haryana,2
+2024,10,kharif,Rohtak,Haryana,1
+2024,10,kharif,Rupnagar,Punjab,2
+2024,10,kharif,S.A.S. Nagar (Mohali),Punjab,1
+2024,10,kharif,Sangrur,Punjab,51
+2024,10,kharif,Shahid Bhagat Singh Nagar,Punjab,8
+2024,10,kharif,Shahjahanpur,Uttar Pradesh,4
+2024,10,kharif,Sirsa,Haryana,40
+2024,10,kharif,Sitapur,Uttar Pradesh,3
+2024,10,kharif,Sri Muktsar Sahib,Punjab,6
+2024,10,kharif,Tarn Taran,Punjab,45
+2024,10,kharif,Yamunanagar,Haryana,10
+2024,11,kharif,Ambala,Haryana,3
+2024,11,kharif,Amritsar,Punjab,46
+2024,11,kharif,Bareilly,Uttar Pradesh,13
+2024,11,kharif,Barnala,Punjab,168
+2024,11,kharif,Bathinda,Punjab,283
+2024,11,kharif,Bhiwani,Haryana,4
+2024,11,kharif,Budaun,Uttar Pradesh,3
+2024,11,kharif,Etah,Uttar Pradesh,3
+2024,11,kharif,Faridabad,Haryana,6
+2024,11,kharif,Faridkot,Punjab,238
+2024,11,kharif,Farrukhabad,Uttar Pradesh,2
+2024,11,kharif,Fatehabad,Haryana,50
+2024,11,kharif,Fatehgarh Sahib,Punjab,23
+2024,11,kharif,Fazilka,Punjab,250
+2024,11,kharif,Ferozepur,Punjab,293
+2024,11,kharif,Firozabad,Uttar Pradesh,3
+2024,11,kharif,Gurdaspur,Punjab,33
+2024,11,kharif,Gurugram,Haryana,1
+2024,11,kharif,Hardoi,Uttar Pradesh,5
+2024,11,kharif,Hisar,Haryana,3
+2024,11,kharif,Hoshiarpur,Punjab,7
+2024,11,kharif,Jalandhar,Punjab,8
+2024,11,kharif,Jhajjar,Haryana,2
+2024,11,kharif,Jind,Haryana,46
+2024,11,kharif,Kaithal,Haryana,92
+2024,11,kharif,Kannauj,Uttar Pradesh,8
+2024,11,kharif,Kapurthala,Punjab,43
+2024,11,kharif,Karnal,Haryana,11
+2024,11,kharif,Kurukshetra,Haryana,1
+2024,11,kharif,Lakhimpur Kheri,Uttar Pradesh,15
+2024,11,kharif,Ludhiana,Punjab,32
+2024,11,kharif,Mahendragarh,Haryana,4
+2024,11,kharif,Mainpuri,Uttar Pradesh,9
+2024,11,kharif,Malerkotla,Punjab,82
+2024,11,kharif,Mansa,Punjab,272
+2024,11,kharif,Moga,Punjab,233
+2024,11,kharif,Palwal,Haryana,7
+2024,11,kharif,Panchkula,Haryana,4
+2024,11,kharif,Panipat,Haryana,24
+2024,11,kharif,Pathankot,Punjab,13
+2024,11,kharif,Patiala,Punjab,44
+2024,11,kharif,Pilibhit,Uttar Pradesh,30
+2024,11,kharif,Rohtak,Haryana,5
+2024,11,kharif,Rupnagar,Punjab,3
+2024,11,kharif,S.A.S. Nagar (Mohali),Punjab,1
+2024,11,kharif,Sangrur,Punjab,387
+2024,11,kharif,Shahid Bhagat Singh Nagar,Punjab,14
+2024,11,kharif,Shahjahanpur,Uttar Pradesh,11
+2024,11,kharif,Sirsa,Haryana,210
+2024,11,kharif,Sitapur,Uttar Pradesh,8
+2024,11,kharif,Sonipat,Haryana,20
+2024,11,kharif,Sri Muktsar Sahib,Punjab,349
+2024,11,kharif,Tarn Taran,Punjab,107
+2024,11,kharif,Yamunanagar,Haryana,18
+2025,4,rabi,Ambala,Haryana,10
+2025,4,rabi,Amritsar,Punjab,12
+2025,4,rabi,Bareilly,Uttar Pradesh,27
+2025,4,rabi,Barnala,Punjab,8
+2025,4,rabi,Bathinda,Punjab,25
+2025,4,rabi,Bhiwani,Haryana,11
+2025,4,rabi,Budaun,Uttar Pradesh,1
+2025,4,rabi,Charkhi Dadri,Haryana,9
+2025,4,rabi,Etah,Uttar Pradesh,1
+2025,4,rabi,Faridabad,Haryana,21
+2025,4,rabi,Faridkot,Punjab,5
+2025,4,rabi,Farrukhabad,Uttar Pradesh,5
+2025,4,rabi,Fatehabad,Haryana,16
+2025,4,rabi,Fatehgarh Sahib,Punjab,3
+2025,4,rabi,Fazilka,Punjab,63
+2025,4,rabi,Ferozepur,Punjab,25
+2025,4,rabi,Gurdaspur,Punjab,75
+2025,4,rabi,Gurugram,Haryana,9
+2025,4,rabi,Hardoi,Uttar Pradesh,4
+2025,4,rabi,Hisar,Haryana,6
+2025,4,rabi,Hoshiarpur,Punjab,50
+2025,4,rabi,Jalandhar,Punjab,51
+2025,4,rabi,Jhajjar,Haryana,48
+2025,4,rabi,Jind,Haryana,30
+2025,4,rabi,Kaithal,Haryana,27
+2025,4,rabi,Kannauj,Uttar Pradesh,1
+2025,4,rabi,Kapurthala,Punjab,64
+2025,4,rabi,Karnal,Haryana,5
+2025,4,rabi,Kurukshetra,Haryana,4
+2025,4,rabi,Lakhimpur Kheri,Uttar Pradesh,86
+2025,4,rabi,Ludhiana,Punjab,12
+2025,4,rabi,Mahendragarh,Haryana,2
+2025,4,rabi,Mainpuri,Uttar Pradesh,1
+2025,4,rabi,Malerkotla,Punjab,3
+2025,4,rabi,Mansa,Punjab,21
+2025,4,rabi,Moga,Punjab,12
+2025,4,rabi,Nuh,Haryana,2
+2025,4,rabi,Palwal,Haryana,43
+2025,4,rabi,Panchkula,Haryana,23
+2025,4,rabi,Panipat,Haryana,18
+2025,4,rabi,Pathankot,Punjab,13
+2025,4,rabi,Patiala,Punjab,12
+2025,4,rabi,Pilibhit,Uttar Pradesh,175
+2025,4,rabi,Rewari,Haryana,10
+2025,4,rabi,Rohtak,Haryana,54
+2025,4,rabi,Rupnagar,Punjab,22
+2025,4,rabi,S.A.S. Nagar (Mohali),Punjab,2
+2025,4,rabi,Sangrur,Punjab,8
+2025,4,rabi,Shahid Bhagat Singh Nagar,Punjab,11
+2025,4,rabi,Shahjahanpur,Uttar Pradesh,35
+2025,4,rabi,Sirsa,Haryana,35
+2025,4,rabi,Sitapur,Uttar Pradesh,5
+2025,4,rabi,Sonipat,Haryana,19
+2025,4,rabi,Sri Muktsar Sahib,Punjab,28
+2025,4,rabi,Tarn Taran,Punjab,4
+2025,4,rabi,Yamunanagar,Haryana,110
+2025,5,rabi,Ambala,Haryana,41
+2025,5,rabi,Amritsar,Punjab,211
+2025,5,rabi,Bareilly,Uttar Pradesh,40
+2025,5,rabi,Barnala,Punjab,89
+2025,5,rabi,Bathinda,Punjab,173
+2025,5,rabi,Bhiwani,Haryana,10
+2025,5,rabi,Budaun,Uttar Pradesh,9
+2025,5,rabi,Charkhi Dadri,Haryana,1
+2025,5,rabi,Etah,Uttar Pradesh,9
+2025,5,rabi,Faridabad,Haryana,4
+2025,5,rabi,Faridkot,Punjab,65
+2025,5,rabi,Farrukhabad,Uttar Pradesh,3
+2025,5,rabi,Fatehabad,Haryana,40
+2025,5,rabi,Fatehgarh Sahib,Punjab,37
+2025,5,rabi,Fazilka,Punjab,112
+2025,5,rabi,Ferozepur,Punjab,136
+2025,5,rabi,Firozabad,Uttar Pradesh,1
+2025,5,rabi,Gurdaspur,Punjab,185
+2025,5,rabi,Gurugram,Haryana,1
+2025,5,rabi,Hardoi,Uttar Pradesh,29
+2025,5,rabi,Hisar,Haryana,4
+2025,5,rabi,Hoshiarpur,Punjab,32
+2025,5,rabi,Jalandhar,Punjab,58
+2025,5,rabi,Jhajjar,Haryana,12
+2025,5,rabi,Jind,Haryana,61
+2025,5,rabi,Kaithal,Haryana,74
+2025,5,rabi,Kannauj,Uttar Pradesh,5
+2025,5,rabi,Kapurthala,Punjab,88
+2025,5,rabi,Karnal,Haryana,30
+2025,5,rabi,Kurukshetra,Haryana,14
+2025,5,rabi,Lakhimpur Kheri,Uttar Pradesh,8
+2025,5,rabi,Ludhiana,Punjab,79
+2025,5,rabi,Mahendragarh,Haryana,4
+2025,5,rabi,Mainpuri,Uttar Pradesh,6
+2025,5,rabi,Malerkotla,Punjab,84
+2025,5,rabi,Mansa,Punjab,58
+2025,5,rabi,Moga,Punjab,177
+2025,5,rabi,Palwal,Haryana,6
+2025,5,rabi,Panchkula,Haryana,2
+2025,5,rabi,Panipat,Haryana,26
+2025,5,rabi,Pathankot,Punjab,33
+2025,5,rabi,Patiala,Punjab,62
+2025,5,rabi,Pilibhit,Uttar Pradesh,140
+2025,5,rabi,Rewari,Haryana,2
+2025,5,rabi,Rohtak,Haryana,46
+2025,5,rabi,Rupnagar,Punjab,9
+2025,5,rabi,S.A.S. Nagar (Mohali),Punjab,5
+2025,5,rabi,Sangrur,Punjab,68
+2025,5,rabi,Shahid Bhagat Singh Nagar,Punjab,73
+2025,5,rabi,Shahjahanpur,Uttar Pradesh,62
+2025,5,rabi,Sirsa,Haryana,65
+2025,5,rabi,Sitapur,Uttar Pradesh,6
+2025,5,rabi,Sonipat,Haryana,32
+2025,5,rabi,Sri Muktsar Sahib,Punjab,121
+2025,5,rabi,Tarn Taran,Punjab,119
+2025,5,rabi,Yamunanagar,Haryana,29
+2025,10,kharif,Ambala,Haryana,4
+2025,10,kharif,Amritsar,Punjab,51
+2025,10,kharif,Bareilly,Uttar Pradesh,5
+2025,10,kharif,Barnala,Punjab,42
+2025,10,kharif,Bathinda,Punjab,39
+2025,10,kharif,Budaun,Uttar Pradesh,5
+2025,10,kharif,Etah,Uttar Pradesh,1
+2025,10,kharif,Faridabad,Haryana,1
+2025,10,kharif,Faridkot,Punjab,12
+2025,10,kharif,Fatehabad,Haryana,8
+2025,10,kharif,Fatehgarh Sahib,Punjab,15
+2025,10,kharif,Fazilka,Punjab,43
+2025,10,kharif,Ferozepur,Punjab,113
+2025,10,kharif,Firozabad,Uttar Pradesh,1
+2025,10,kharif,Gurdaspur,Punjab,12
+2025,10,kharif,Gurugram,Haryana,1
+2025,10,kharif,Hardoi,Uttar Pradesh,1
+2025,10,kharif,Hisar,Haryana,4
+2025,10,kharif,Hoshiarpur,Punjab,1
+2025,10,kharif,Jalandhar,Punjab,3
+2025,10,kharif,Jind,Haryana,9
+2025,10,kharif,Kaithal,Haryana,22
+2025,10,kharif,Kannauj,Uttar Pradesh,1
+2025,10,kharif,Kapurthala,Punjab,50
+2025,10,kharif,Karnal,Haryana,2
+2025,10,kharif,Kurukshetra,Haryana,4
+2025,10,kharif,Lakhimpur Kheri,Uttar Pradesh,1
+2025,10,kharif,Mahendragarh,Haryana,1
+2025,10,kharif,Mainpuri,Uttar Pradesh,1
+2025,10,kharif,Malerkotla,Punjab,9
+2025,10,kharif,Mansa,Punjab,37
+2025,10,kharif,Moga,Punjab,18
+2025,10,kharif,Nuh,Haryana,1
+2025,10,kharif,Palwal,Haryana,31
+2025,10,kharif,Panchkula,Haryana,1
+2025,10,kharif,Panipat,Haryana,2
+2025,10,kharif,Patiala,Punjab,27
+2025,10,kharif,Pilibhit,Uttar Pradesh,66
+2025,10,kharif,Rewari,Haryana,1
+2025,10,kharif,S.A.S. Nagar (Mohali),Punjab,3
+2025,10,kharif,Sangrur,Punjab,117
+2025,10,kharif,Shahid Bhagat Singh Nagar,Punjab,4
+2025,10,kharif,Shahjahanpur,Uttar Pradesh,10
+2025,10,kharif,Sirsa,Haryana,62
+2025,10,kharif,Sitapur,Uttar Pradesh,2
+2025,10,kharif,Sonipat,Haryana,1
+2025,10,kharif,Sri Muktsar Sahib,Punjab,24
+2025,10,kharif,Tarn Taran,Punjab,132
+2025,10,kharif,Yamunanagar,Haryana,16
+2025,11,kharif,Ambala,Haryana,3
+2025,11,kharif,Amritsar,Punjab,51
+2025,11,kharif,Bareilly,Uttar Pradesh,23
+2025,11,kharif,Barnala,Punjab,83
+2025,11,kharif,Bathinda,Punjab,193
+2025,11,kharif,Bhiwani,Haryana,2
+2025,11,kharif,Budaun,Uttar Pradesh,1
+2025,11,kharif,Etah,Uttar Pradesh,7
+2025,11,kharif,Faridabad,Haryana,2
+2025,11,kharif,Faridkot,Punjab,106
+2025,11,kharif,Farrukhabad,Uttar Pradesh,2
+2025,11,kharif,Fatehabad,Haryana,60
+2025,11,kharif,Fatehgarh Sahib,Punjab,10
+2025,11,kharif,Fazilka,Punjab,270
+2025,11,kharif,Ferozepur,Punjab,133
+2025,11,kharif,Firozabad,Uttar Pradesh,1
+2025,11,kharif,Gurdaspur,Punjab,21
+2025,11,kharif,Hardoi,Uttar Pradesh,9
+2025,11,kharif,Hisar,Haryana,13
+2025,11,kharif,Hoshiarpur,Punjab,2
+2025,11,kharif,Jalandhar,Punjab,12
+2025,11,kharif,Jhajjar,Haryana,1
+2025,11,kharif,Jind,Haryana,88
+2025,11,kharif,Kaithal,Haryana,92
+2025,11,kharif,Kannauj,Uttar Pradesh,7
+2025,11,kharif,Kapurthala,Punjab,21
+2025,11,kharif,Karnal,Haryana,9
+2025,11,kharif,Kurukshetra,Haryana,1
+2025,11,kharif,Lakhimpur Kheri,Uttar Pradesh,12
+2025,11,kharif,Ludhiana,Punjab,14
+2025,11,kharif,Mahendragarh,Haryana,3
+2025,11,kharif,Mainpuri,Uttar Pradesh,6
+2025,11,kharif,Malerkotla,Punjab,51
+2025,11,kharif,Mansa,Punjab,257
+2025,11,kharif,Moga,Punjab,190
+2025,11,kharif,Nuh,Haryana,1
+2025,11,kharif,Palwal,Haryana,21
+2025,11,kharif,Panchkula,Haryana,5
+2025,11,kharif,Panipat,Haryana,5
+2025,11,kharif,Patiala,Punjab,40
+2025,11,kharif,Pilibhit,Uttar Pradesh,29
+2025,11,kharif,Rewari,Haryana,4
+2025,11,kharif,Rohtak,Haryana,16
+2025,11,kharif,Rupnagar,Punjab,1
+2025,11,kharif,Sangrur,Punjab,236
+2025,11,kharif,Shahid Bhagat Singh Nagar,Punjab,9
+2025,11,kharif,Shahjahanpur,Uttar Pradesh,16
+2025,11,kharif,Sirsa,Haryana,163
+2025,11,kharif,Sitapur,Uttar Pradesh,10
+2025,11,kharif,Sonipat,Haryana,9
+2025,11,kharif,Sri Muktsar Sahib,Punjab,282
+2025,11,kharif,Tarn Taran,Punjab,87
+2025,11,kharif,Yamunanagar,Haryana,16
