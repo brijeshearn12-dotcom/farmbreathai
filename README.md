@@ -29,7 +29,6 @@
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Demo Video](#demo-video)
 - [Model Performance](#model-performance)
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
@@ -237,10 +236,6 @@ python model/train_model.py
 
 > Note: a couple of filenames in `screenshots/` currently have a duplicated `.png.png` extension (`day5_district_table.png.png`, `day7_forecast_chart.png.png`, `day2_fire_data_loaded.png.png`). The links above match the files exactly as they exist today, so they'll render correctly — but it's worth renaming them at some point for tidiness.
 
-## Demo Video
-
-_Add a link to your demo video here once recorded (YouTube, Loom, or Google Drive link works fine for the Samsung submission)._
-
 ## Model Performance
 
 The model is a `RandomForestClassifier` tuned via `RandomizedSearchCV`, trained on NASA FIRMS fire detections (2021–2025) joined with weather and seasonal features. Key engineered features include a wind/drought index, lagged fire counts per district, and cyclical month encoding — the kind of features that let the model learn *seasonality* rather than just memorizing which districts historically burn most.
@@ -273,18 +268,8 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) for 
 
 ## Authors
 
-**Brijesh Makwana** — Data Science & ML Pipeline
-- Data collection and processing (`download_weather.py`, `clean_fire_data.py`, `explore_fire_data.py`)
-- District mapping and dataset construction (`create_districts.py`, `assign_districts.py`, `create_master_dataset.py`)
-- Model training and serialization (`train_model.py`, `risk_predictor.pkl`, `class_thresholds.pkl`)
-- Prediction pipeline and seasonal logic (`predict.py`, `model/seasonal_predictor.py`)
-- Jupyter notebooks for exploration and validation (`notebooks/`, `validation/`)
-
-**Gaurav Sharma** — Frontend & Dashboard
-- Streamlit dashboard application (`dashboard/app.py`)
-- Interactive risk map, charts, and 7-day forecast UI
-- Dashboard styling, layout, and UX
-- Screenshots and demo assets (`screenshots/`)
+- **Brijesh Makwana** — Data Science & ML Pipeline
+- **Gaurav Sharma** — Frontend
 
 ## Contact
 
