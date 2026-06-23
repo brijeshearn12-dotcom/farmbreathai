@@ -422,8 +422,26 @@ print(f"Saved feature importance to {FEATURE_IMPORTANCE_PATH}")
 
 
 # ---------------------------------------------------------------------
-# 9. Save model
+# 9. Save model + metadata
 # ---------------------------------------------------------------------
 joblib.dump(model, MODEL_PATH)
 print(f"\nModel saved to '{MODEL_PATH}'.")
 print(f"Model saved successfully. Test accuracy: {test_accuracy * 100:.2f}%")
+
+import json
+metadata = {
+    "model_type": type(model).__name__,
+    "test_accuracy": round(float(test_accuracy) * 100, 1),
+    "cv_f1_macro": round(float(best_cv_score), 4),
+    "n_features": len(final_features),
+    "features": final_features,
+    "train_size": int(X_train.shape[0]),
+    "test_size": int(X_test.shape[0]),
+    "threshold_low": round(float(t_low_opt), 2),
+    "threshold_high": round(float(t_high_opt), 2),
+    "selected_candidate": best_name,
+}
+METADATA_PATH = "model/model_metadata.json"
+with open(METADATA_PATH, "w") as f:
+    json.dump(metadata, f, indent=2)
+print(f"Model metadata saved to '{METADATA_PATH}'.")

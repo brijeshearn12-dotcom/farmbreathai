@@ -40,12 +40,12 @@ def get_season_state(check_date=None):
         days_in = (m - 10) * 30 + d.day  # Day 1 = Oct 1
         info = SEASON_INFO["kharif"]
         return {"state": "kharif", "label": info["label"], "color": info["color"],
-                "active": True, "days_in": days_in, "days_to_next": None}
+                "active": True, "days_in": days_in, "days_to_next": 0}
 
     if m in RABI_MONTHS:
         info = SEASON_INFO["rabi"]
         return {"state": "rabi", "label": info["label"], "color": info["color"],
-                "active": True, "days_in": None, "days_to_next": None}
+                "active": True, "days_in": None, "days_to_next": 0}
 
     if m in PRE_SEASON_MONTHS:
         info = SEASON_INFO["pre_season"]

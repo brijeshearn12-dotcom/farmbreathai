@@ -1,0 +1,22 @@
+{
+  "model_type": "VotingClassifier",
+  "test_accuracy": 82.0,
+  "cv_f1_macro": 0.7812,
+  "n_features": 11,
+  "features": [
+    "temperature_2m_max",
+    "precipitation_sum",
+    "windspeed_10m_max",
+    "relative_humidity_2m_mean",
+    "is_kharif_season",
+    "is_rabi_season",
+    "wind_drought_index",
+    "lag_fire_count",
+    "month",
+    "month_sin",
+    "month_cos"
+  ],
+  "threshold_low": 0.35,
+  "threshold_high": 0.35,
+  "selected_candidate": "RandomForest"
+}
