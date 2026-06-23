@@ -1351,7 +1351,7 @@ else:
         </div>""", unsafe_allow_html=True)
     else:
         risk_map = create_risk_map(map_df)
-        st_folium(risk_map, width=None, height=520, returned_objects=[])
+        st_folium(risk_map, use_container_width=True, height=520, returned_objects=[])
 
 st.markdown("<div style='height:16px'></div>", unsafe_allow_html=True)
 
@@ -1385,7 +1385,7 @@ styled = (
     display_df.style
     .map(style_risk_level, subset=["Risk Level"])
     .format({"Risk Score": "{:.2f}"})
-    .set_properties(subset=_bold_cols, **{"font-weight":"500","color":"#0D1F16"})
+    .set_properties(subset=_bold_cols, **{"font-weight":"600"})
     .set_properties(subset=["Status"], **{"font-size":"13px"})
     .set_table_styles([
         {"selector":"thead th",
@@ -1398,7 +1398,7 @@ styled = (
         {"selector":"tbody tr:hover",
          "props":[("background-color","#F5F8F6")]},
         {"selector":"td",
-         "props":[("padding","10px 14px"),("font-size","13px"),("color","#2D4A3A")]},
+         "props":[("padding","10px 14px"),("font-size","13px")]},
     ])
 )
 st.dataframe(styled, use_container_width=True, hide_index=True,
