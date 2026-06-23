@@ -839,6 +839,109 @@ div[data-baseweb="calendar"] { background-color: var(--surface) !important; bord
     .alert { font-size: 11px; }
     .fb-footer { font-size: 10px; }
 }
+
+/* ── 20. RESPONSIVE CUSTOM SYSTEM OVERRIDES ─────────────────────────────────── */
+
+.chart-panel {
+    padding: 24px 24px 16px;
+}
+
+@media (max-width: 768px) {
+    .chart-panel {
+        padding: 12px 12px 10px !important;
+    }
+    
+    /* Avoid scroll trap on mobile by capping Folium map iframe height */
+    iframe[title*="streamlit_folium"] {
+        height: 360px !important;
+    }
+    
+    /* Touch targets upgrade for mobile devices (WCAG compliance) */
+    div[data-baseweb="select"] > div {
+        padding-top: 6px !important;
+        padding-bottom: 6px !important;
+        font-size: 14px !important;
+    }
+    div[data-baseweb="input"] input {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        font-size: 14px !important;
+    }
+    .stButton > button {
+        padding: 12px 20px !important;
+        font-size: 14px !important;
+    }
+}
+
+/* Grid wrapping for columns on tablets & medium viewports */
+@media (max-width: 992px) {
+    /* 4-column KPI rows wrap to a neat 2x2 grid */
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(4)) {
+        flex-wrap: wrap !important;
+        gap: 16px !important;
+    }
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(4)) > div[data-testid="column"] {
+        flex: 1 1 calc(50% - 8px) !important;
+        min-width: calc(50% - 8px) !important;
+        max-width: calc(50% - 8px) !important;
+    }
+
+    /* 3-column rows wrap to 2+1 layout */
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(3)):not(:has(div[data-testid="column"]:nth-of-type(4))) {
+        flex-wrap: wrap !important;
+        gap: 16px !important;
+    }
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(3)):not(:has(div[data-testid="column"]:nth-of-type(4))) > div[data-testid="column"] {
+        flex: 1 1 calc(50% - 8px) !important;
+        min-width: calc(50% - 8px) !important;
+        max-width: calc(50% - 8px) !important;
+    }
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(3)):not(:has(div[data-testid="column"]:nth-of-type(4))) > div[data-testid="column"]:nth-of-type(3) {
+        flex: 1 1 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+
+/* Stack 2-column chart groups on tablet/mobile ≤ 900px */
+@media (max-width: 900px) {
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(2)):not(:has(div[data-testid="column"]:nth-of-type(3))) {
+        flex-direction: column !important;
+        gap: 16px !important;
+    }
+    div[data-testid="stHorizontalBlock"]:has(div[data-testid="column"]:nth-of-type(2)):not(:has(div[data-testid="column"]:nth-of-type(3))) > div[data-testid="column"] {
+        flex: 1 1 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+
+/* Stack table header and export download button split on ≤ 800px */
+@media (max-width: 800px) {
+    div[data-testid="stHorizontalBlock"]:has([data-testid="stDownloadButton"]) {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 12px !important;
+    }
+    div[data-testid="stHorizontalBlock"]:has([data-testid="stDownloadButton"]) > div[data-testid="column"] {
+        flex: 1 1 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+
+/* Stack all horizontal blocks vertically on mobile ≤ 640px */
+@media (max-width: 640px) {
+    div[data-testid="stHorizontalBlock"] {
+        flex-direction: column !important;
+        gap: 12px !important;
+    }
+    div[data-testid="stHorizontalBlock"] > div[data-testid="column"] {
+        flex: 1 1 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -1165,6 +1268,9 @@ st.markdown(f"""
     <div class="topbar-wordmark">Farm<span>Breath</span>&nbsp;AI</div>
     <div class="topbar-sep"></div>
     <div class="topbar-subtitle">Stubble Burning Risk Intelligence</div>
+    <div class="topbar-right">
+        <div class="topbar-live-badge">Live Monitor</div>
+    </div>
 </div>
 """, unsafe_allow_html=True)
 
@@ -1356,7 +1462,7 @@ if generate:
             </div>""", unsafe_allow_html=True)
 
             forecast_fig = build_forecast_chart(forecast_df, forecast_district)
-            st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+            st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
             st.plotly_chart(forecast_fig, width="stretch")
             st.markdown("</div>", unsafe_allow_html=True)
 
@@ -1543,7 +1649,7 @@ else:
     # ── PHASE 4: Off-season hero charts ──────────────────────────────────────
     if season["state"] == "off_season":
         leaderboard_fig = build_historical_leaderboard(fire_df)
-        st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+        st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
         st.plotly_chart(leaderboard_fig, width="stretch")
         st.markdown("</div>", unsafe_allow_html=True)
 
@@ -1553,7 +1659,7 @@ else:
         ph4_left, ph4_right = st.columns(2, gap="medium")
         with ph4_left:
             if yoy_fig:
-                st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+                st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
                 st.plotly_chart(yoy_fig, width="stretch")
                 st.markdown("</div>", unsafe_allow_html=True)
         with ph4_right:
@@ -1571,7 +1677,7 @@ else:
                 xaxis=dict(**_AXIS, title="Month"),
                 yaxis=dict(**_AXIS, title="Avg Fire Incidents"),
                 bargap=0.35, height=340)
-            st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+            st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
             st.plotly_chart(fig_mo, width="stretch")
             st.markdown("</div>", unsafe_allow_html=True)
 
@@ -1594,7 +1700,7 @@ else:
             x=0, xanchor="left", pad=dict(l=0, b=12)),
         xaxis=dict(**_AXIS, title="Year", dtick=1),
         yaxis=dict(**_AXIS, title="Fire Incidents"), height=320)
-    st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+    st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
     st.plotly_chart(fig1, width="stretch")
     st.markdown("</div>", unsafe_allow_html=True)
 
@@ -1618,7 +1724,7 @@ else:
                 xaxis=dict(**_AXIS, title="Month"),
                 yaxis=dict(**_AXIS, title="Avg Fire Incidents"),
                 bargap=0.35, height=340)
-            st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+            st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
             st.plotly_chart(fig2, width="stretch")
             st.markdown("</div>", unsafe_allow_html=True)
 
@@ -1641,7 +1747,7 @@ else:
             title=dict(text=top10_title, x=0, xanchor="left", pad=dict(l=0, b=12)),
             xaxis=dict(**_AXIS, title="Risk Score", range=[0,10]),
             yaxis=dict(**_AXIS, title=""), height=340)
-        st.markdown('<div class="panel" style="padding:24px 24px 16px">', unsafe_allow_html=True)
+        st.markdown('<div class="panel chart-panel">', unsafe_allow_html=True)
         st.plotly_chart(fig3, width="stretch")
         st.markdown("</div>", unsafe_allow_html=True)
 
