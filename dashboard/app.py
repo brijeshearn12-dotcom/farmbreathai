@@ -721,10 +721,123 @@ div[data-baseweb="calendar"] { background-color: var(--surface) !important; bord
     *, *::before, *::after { animation-duration:.01ms !important; transition-duration:.01ms !important; }
 }
 
-/* ── 19. RESPONSIVE ───────────────────────────────────────────────────────── */
+/* ── 19. RESPONSIVE — Tablet + Mobile ─────────────────────────────────────── */
+
+/* Tablet (≤ 1100px) */
 @media (max-width: 1100px) {
     .mission-banner { flex-direction: column; gap: 20px; }
     .mission-stats  { width: 100%; justify-content: space-around; }
+}
+
+/* Mobile (≤ 768px) */
+@media (max-width: 768px) {
+    /* Block container edge padding */
+    .block-container {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+        padding-bottom: 2rem !important;
+    }
+
+    /* Topbar */
+    .topbar {
+        padding: 0 14px; height: 48px; gap: 8px;
+    }
+    .topbar-mark { width: 26px; height: 26px; border-radius: 7px; }
+    .topbar-wordmark { font-size: 13px; }
+    .topbar-subtitle, .topbar-sep { display: none; }
+    .topbar-live-badge { padding: 3px 8px; font-size: 10px; }
+
+    /* Mission banner */
+    .mission-banner {
+        padding: 18px 16px; margin: 14px 0 18px;
+        flex-direction: column; gap: 14px; border-radius: var(--r-lg);
+    }
+    .mission-banner::before { display: none; }
+    .mission-headline { font-size: 1.15rem; }
+    .mission-sub { font-size: 12px; max-width: 100%; }
+    .mission-stats {
+        padding: 12px 10px; gap: 0;
+        display: flex; flex-wrap: wrap; justify-content: space-around;
+    }
+    .mission-stat { padding: 6px 10px; }
+    .mission-stat-num { font-size: 1.25rem; }
+    .mission-stat-label { font-size: 9px; }
+    .mission-divider { display: none; }
+
+    /* Countdown card */
+    .countdown-card {
+        flex-direction: column; gap: 14px;
+        padding: 16px 18px; align-items: flex-start;
+    }
+    .countdown-left { text-align: left; min-width: unset; }
+    .countdown-divider { width: 100%; height: 1px; }
+    .countdown-number { font-size: 1.7rem; }
+    .countdown-title { font-size: 13px; }
+    .countdown-body { font-size: 12px; }
+
+    /* Panels */
+    .panel { padding: 14px 14px !important; margin-bottom: 10px; }
+
+    /* KPI metric cards */
+    [data-testid="metric-container"] {
+        padding: 14px 16px !important;
+    }
+    [data-testid="metric-container"] [data-testid="stMetricValue"] {
+        font-size: 1.6rem !important;
+    }
+
+    /* Section headers */
+    .section-header { flex-direction: column; gap: 4px; align-items: flex-start; }
+    .section-title { font-size: 13px; }
+    .section-meta { font-size: 11px; }
+
+    /* Alerts */
+    .alert { padding: 10px 12px; font-size: 12px; gap: 8px; }
+    .alert-icon { font-size: 14px; }
+
+    /* Forecast header */
+    .forecast-header { margin: 10px 0 8px; }
+    .forecast-header-icon { width: 28px; height: 28px; font-size: 14px; }
+    .forecast-header-text { font-size: 13px; }
+
+    /* Map section */
+    .map-section-title { font-size: 13px; }
+    .map-section-sub { font-size: 11px; margin-left: 0; margin-left: 38px; }
+
+    /* Analytics section */
+    .analytics-header { flex-direction: column; gap: 6px; align-items: flex-start; }
+    .analytics-title { font-size: 13px; }
+    .analytics-badge { font-size: 9px; }
+
+    /* Sidebar brand */
+    .sb-brand { padding: 16px 16px 14px; }
+    .sb-mark { width: 36px; height: 36px; border-radius: 10px; }
+    .sb-wordmark { font-size: 15px; }
+    .sb-tagline { font-size: 10px; }
+
+    /* Footer */
+    .fb-footer { font-size: 11px; padding: 16px 0 8px; }
+    .fb-footer br { display: block; }
+}
+
+/* Small phones (≤ 480px) */
+@media (max-width: 480px) {
+    .mission-headline { font-size: 1rem; letter-spacing: -.02em; }
+    .mission-sub { font-size: 11px; }
+    .mission-stat-num { font-size: 1.1rem; }
+
+    [data-testid="metric-container"] [data-testid="stMetricValue"] {
+        font-size: 1.4rem !important;
+    }
+    [data-testid="metric-container"] [data-testid="stMetricLabel"] {
+        font-size: 10px !important;
+    }
+
+    .panel { padding: 12px 12px !important; }
+    .countdown-number { font-size: 1.5rem; }
+    .section-title { font-size: 12px; }
+    .alert { font-size: 11px; }
+    .fb-footer { font-size: 10px; }
 }
 </style>
 """, unsafe_allow_html=True)
@@ -1093,7 +1206,7 @@ with st.sidebar:
     season           = get_season_state(prediction_date)
     is_active_season = season["state"] in ("kharif", "rabi")
 
-    generate = st.button("Generate Predictions", use_container_width=True,
+    generate = st.button("Generate Predictions", width="stretch",
                          disabled=not is_active_season)
     if not is_active_season:
         note = (f"Live predictions begin October 1 ({season['days_to_next']} days away)"
@@ -1377,7 +1490,7 @@ with tbl_dl_col:
         label="⬇ Export CSV",
         data=display_df.to_csv(index=False).encode("utf-8"),
         file_name=f"farmbreath_risk_{prediction_date.isoformat()}.csv",
-        mime="text/csv", use_container_width=True,
+        mime="text/csv", width="stretch",
     )
 
 _bold_cols = [c for c in ["District","State"] if c in display_df.columns]
@@ -1401,8 +1514,8 @@ styled = (
          "props":[("padding","10px 14px"),("font-size","13px")]},
     ])
 )
-st.dataframe(styled, use_container_width=True, hide_index=True,
-             height=max(80, min(40 + len(display_df) * 45, 520)))
+st.dataframe(styled, width="stretch", hide_index=True,
+             height=max(80, min(40 + len(display_df) * 45, 480)))
 
 st.markdown("<div style='height:20px'></div>", unsafe_allow_html=True)
 
