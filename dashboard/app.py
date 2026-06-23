@@ -1268,9 +1268,6 @@ st.markdown(f"""
     <div class="topbar-wordmark">Farm<span>Breath</span>&nbsp;AI</div>
     <div class="topbar-sep"></div>
     <div class="topbar-subtitle">Stubble Burning Risk Intelligence</div>
-    <div class="topbar-right">
-        <div class="topbar-live-badge">Live Monitor</div>
-    </div>
 </div>
 """, unsafe_allow_html=True)
 
