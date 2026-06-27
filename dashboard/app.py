@@ -335,6 +335,20 @@ html, body, [class*="css"] {
     max-width: 100% !important;
 }
 #MainMenu, footer, header { visibility: hidden; }
+/* permanent static sidebar: remove the collapse controls so it can never be hidden */
+[data-testid="stSidebarCollapseButton"],
+[data-testid="stSidebarCollapsedControl"],
+[data-testid="collapsedControl"] { display: none !important; }
+/* pin the sidebar fully open at its default 300px width, overriding Streamlit's
+   collapse styles (min-width:0; max-width:0; transform:translateX(-300px)) */
+section[data-testid="stSidebar"],
+section[data-testid="stSidebar"][aria-expanded="false"] {
+    min-width: 300px !important;
+    max-width: 300px !important;
+    width: 300px !important;
+    transform: none !important;
+    visibility: visible !important;
+}
 hr { border: none; border-top: 1px solid var(--border); margin: .75rem 0; }
 
 /* ── 3. TOP NAVIGATION BAR ────────────────────────────────────────────────── */
