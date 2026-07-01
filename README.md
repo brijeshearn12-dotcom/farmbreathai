@@ -229,12 +229,10 @@ python model/train_model.py
 |---|---|
 | ![Dashboard layout](screenshots/day5_dashboard_layout.png) | ![Live risk map](screenshots/day6_risk_map.png) |
 | Dashboard overview | Live district risk map |
-| ![District table](screenshots/day5_district_table.png.png) | ![7-day forecast](screenshots/day7_forecast_chart.png.png) |
+| ![District table](screenshots/day5_district_table.png) | ![7-day forecast](screenshots/day7_forecast_chart.png) |
 | District risk table | 7-day forecast chart |
 | ![Feature importance](screenshots/feature_importance.png) | ![Confusion matrix](screenshots/confusion_matrix.png) |
 | Model feature importance | Model confusion matrix |
-
-> Note: a couple of filenames in `screenshots/` currently have a duplicated `.png.png` extension (`day5_district_table.png.png`, `day7_forecast_chart.png.png`, `day2_fire_data_loaded.png.png`). The links above match the files exactly as they exist today, so they'll render correctly — but it's worth renaming them at some point for tidiness.
 
 ## Model Performance
 

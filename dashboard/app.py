@@ -1098,6 +1098,9 @@ def load_predictions(path: str = "data/current_predictions.csv") -> pd.DataFrame
             "lucknow":"Uttar Pradesh","mathura":"Uttar Pradesh","moradabad":"Uttar Pradesh",
             "pilibhit":"Uttar Pradesh","rampur":"Uttar Pradesh","shahjahanpur":"Uttar Pradesh",
             "sitapur":"Uttar Pradesh","varanasi":"Uttar Pradesh",
+            "malerkotla":"Punjab","s.a.s. nagar (mohali)":"Punjab",
+            "kanpur dehat":"Uttar Pradesh","auraiya":"Uttar Pradesh",
+            "mainpuri":"Uttar Pradesh","kannauj":"Uttar Pradesh",
         }
         df["district_state"] = (df["district"].str.strip().str.lower()
                                 .map(DISTRICT_STATE_MAP).fillna("Unknown"))
@@ -1151,6 +1154,9 @@ def load_predictions(path: str = "data/current_predictions.csv") -> pd.DataFrame
             "moradabad":(28.8386,78.7733),"pilibhit":(28.6319,79.8031),
             "rampur":(28.7975,79.0060),"shahjahanpur":(27.8820,79.9053),
             "sitapur":(27.5625,80.6800),"varanasi":(25.3176,82.9739),
+            "malerkotla":(30.5300,75.8800),"s.a.s. nagar (mohali)":(30.7046,76.7179),
+            "kanpur dehat":(26.4300,79.9900),"auraiya":(26.4600,79.5100),
+            "mainpuri":(27.2300,79.0200),"kannauj":(27.0500,79.9200),
         }
         key = df["district"].str.strip().str.lower()
         if "latitude"  not in df.columns:
