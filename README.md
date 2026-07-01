@@ -16,8 +16,16 @@
 
 ---
 
+## 🔗 Project Links
+
+* 🌐 **Live Website**: [https://farmbreathai.streamlit.app/](https://farmbreathai.streamlit.app/)
+* 🎥 **Demo Video**: [Google Drive Walkthrough](https://drive.google.com/file/d/15JWv-DLdhH61_Yu5acOnFJ3fvNMYWJcN/view?usp=drive_link)
+
+---
+
 ## Table of Contents
 
+- [🔗 Project Links](#-project-links)
 - [The Problem](#the-problem)
 - [What FarmBreath AI Actually Does](#what-farmbreath-ai-actually-does)
 - [Why This, Not Just Another Fire Map](#why-this-not-just-another-fire-map)
